@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm SAM MESHACH A</h1>
 <h3 align="center">Pre-Final Year Student | Google-Certified Python Developer | Data Analyst | Web Developer | AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabucse&label=Profile%20views&color=0e75b6&style=flat" alt="mdabucse" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammeshach23&label=Profile%20views&color=0e75b6&style=flat" alt="sammeshach23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdabucse" alt="mdabucse" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammeshach23" alt="sammeshach23" /></a> </p>
 
 - 🌱 I’m currently learning **Deep Learning, NLP , AWS**
 
 - 📫 How to reach me **sammeshach333@gmail.com**
 
-- ⚡ Fun fact **Pianist 😂**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
