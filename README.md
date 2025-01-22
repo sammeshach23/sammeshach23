@@ -4,7 +4,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sammeshach23&row=3&column=3&margin-w=15&margin-h=15&theme=flat&no-frame=true" alt="sammeshach23" />
   </a> 
 </p>
-<p align="center">- 📫 How to reach me **sammeshach333@gmail.com**</p>
+<p align="center">- 📫 How to reach me **sammeshach333@gmail.com**
+</p>
 
 <h3 align="center">Connect with Me:</h3>
 <div align="center">
