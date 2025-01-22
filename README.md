@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm SAM MESHACH A</h1>
-
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sammeshach23&row=3&column=3&margin-w=15&margin-h=15&theme=flat&no-frame=true" alt="sammeshach23" />
+  </a> 
+</p>
 <p align="center">- 📫 How to reach me **sammeshach333@gmail.com**</p>
 
 <h3 align="center">Connect with Me:</h3>
