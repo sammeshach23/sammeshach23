@@ -87,15 +87,7 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="50" height="50" />
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50" />
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="50" height="50" />
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/idea/idea-original-wordmark.svg" alt="idea" width="50" height="50" />
-  </a>
+ 
 </div>
 
 
@@ -105,23 +97,21 @@
 I am a passionate developer with a strong foundation in various programming languages and modern web technologies. I am always eager to learn new skills and build impactful projects. My expertise spans:
 
 - Full-stack development (MERN stack)
+- Data analysis (Python, Pandas, Scikit-learn)
 - Machine learning & AI (TensorFlow, PyTorch)
 - Cloud services (AWS)
 - Embedded systems (Arduino)
-- Data analysis (Python, Pandas, Scikit-learn)
+
 
 In my spare time, I enjoy solving complex problems on platforms like LeetCode and HackerRank, constantly pushing myself to improve my coding abilities.
 
 ---
 
-### 📈 GitHub Stats:
-![Sam Meshach A's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammeshach23&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
----
 
 ### 📊 Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammeshach23&theme=radical&hide=html&count_private=true&langs_count=6)
 
 ---
 
-I am always open to new opportunities and collaborations! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sammeshach023) or through [email](mailto:sammeshach@example.com). Let's code and innovate together! 🚀
+I am always open to new opportunities and collaborations! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sammeshach023) or through [email](mailto:sammeshach333@gmail.com). Let's code and innovate together! 🚀
