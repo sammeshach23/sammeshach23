@@ -108,7 +108,10 @@ In my spare time, I enjoy solving complex problems on platforms like LeetCode an
 
 
 ### 📊 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammeshach23&theme=radical&hide=html&count_private=true&langs_count=6)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ammeshach23&show_icons=true&locale=en&layout=compact" alt="ammeshach23" width="800" />
+</p>
+
 
 ---
 
