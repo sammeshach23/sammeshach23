@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm SAM MESHACH A</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sammeshach23&label=Profile%20views&color=0e75b6&style=flat" alt="sammeshach23" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammeshach23" alt="sammeshach23" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sammeshach23&row=2&column=5&margin-w=15&margin-h=15&theme=flat&no-frame=true" alt="sammeshach23" />
+  </a> 
+</p>
 
 - 📫 How to reach me **sammeshach333@gmail.com**
 
