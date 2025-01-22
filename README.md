@@ -87,5 +87,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sammeshach23&show_icons=true&locale=en&layout=compact" alt="sammeshach23" style="width: 600px; height: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sammeshach23&show_icons=true&locale=en&layout=compact" alt="sammeshach23" style="width: 500px; height: 300px;" />
 </div>
