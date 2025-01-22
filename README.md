@@ -12,7 +12,7 @@
 </p>
 
 
-<h3 align="center">Connect with Me:</h3>
+<h3 align="center" style="font-size: 28px; color: #34495e;">🚀 Let's Connect:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/sammeshach023" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" />
