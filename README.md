@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm SAM MESHACH A</h1>
+<h1 align="center">
+  <span style="font-size: 50px; font-weight: bold; color: #2e3b4e;">Hello, I'm</span>
+  <br>
+  <span style="font-size: 60px; font-weight: 800; color: #3498db;">Sam Meshach A</span>
+  <br>
+  <span style="font-size: 24px; font-weight: 500; color: #7f8c8d;">A passionate Developer & Lifelong Learner</span>
+</h1>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sammeshach23&row=3&column=3&margin-w=15&margin-h=15&theme=flat&no-frame=true" alt="sammeshach23" />
