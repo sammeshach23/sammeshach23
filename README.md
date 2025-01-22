@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Abubakkar S</h1>
-<h3 align="center">AI&ML Enthusiast | Flutter Developer | AWS Engineer</h3>
+<h1 align="center">Hi 👋, I'm SAM MESHACH A</h1>
+<h3 align="center">Pre-Final Year Student | Google-Certified Python Developer | Data Analyst | Web Developer | AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabucse&label=Profile%20views&color=0e75b6&style=flat" alt="mdabucse" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Deep Learning, NLP , AWS**
 
-- 📫 How to reach me **mdabucse@gmail.com**
+- 📫 How to reach me **sammeshach333@gmail.com**
 
-- ⚡ Fun fact **Singer 😂**
+- ⚡ Fun fact **Pianist 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
