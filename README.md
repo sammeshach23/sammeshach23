@@ -10,9 +10,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sammeshach23&row=3&column=3&margin-w=15&margin-h=15&theme=flat&no-frame=true" alt="sammeshach23" />
   </a> 
 </p>
+<br>
 
-
-<h3 align="center" style="font-size: 28px; color: #34495e;">🚀 Let's Connect:</h3>
+<h3 align="center" style="font-size: 28px; color: #34495e;">🚀 Let's Connect:</h3><br>
 <div align="center">
   <a href="https://www.linkedin.com/in/sammeshach023" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" />
@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="60" />
   </a>
  
-</div>
+</div><br>
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
@@ -94,7 +94,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" />
   </a>
-</div>
+</div><br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sammeshach23&show_icons=true&locale=en&layout=compact" alt="sammeshach23" style="width: 500px; height: 200px;" />
