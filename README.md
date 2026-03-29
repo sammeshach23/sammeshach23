@@ -3,6 +3,7 @@
   <span style="font-size: 60px; font-weight: 800; color: #3498db;">Sam Meshach A</span><br>
   <span style="font-size: 24px; font-weight: 500; color: #7f8c8d;">A Passionate Developer & Lifelong Learner</span>
 </h1>
+
 ### 🚀 Let's Connect!
 <div align="center">
   <a href="https://www.linkedin.com/in/sammeshach023" target="blank">
