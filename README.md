@@ -4,12 +4,6 @@
   <span style="font-size: 24px; font-weight: 500; color: #7f8c8d;">A Passionate Developer & Lifelong Learner</span>
 </h1>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sammeshach23&row=3&column=3&margin-w=15&margin-h=15&theme=flat&no-frame=true" alt="sammeshach23" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 Let's Connect!
