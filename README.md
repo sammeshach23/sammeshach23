@@ -3,7 +3,6 @@
   <span style="font-size: 60px; font-weight: 800; color: #3498db;">Sam Meshach A</span><br>
   <span style="font-size: 24px; font-weight: 500; color: #7f8c8d;">A Passionate Developer & Lifelong Learner</span>
 </h1>
-
 ---
 
 ### 🚀 Let's Connect!
@@ -98,15 +97,4 @@ I am a passionate developer with a strong foundation in various programming lang
 In my spare time, I enjoy solving complex problems on platforms like LeetCode and HackerRank, constantly pushing myself to improve my coding abilities.
 
 ---
-
-
-
-### 📊 Top Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sammeshach23&show_icons=true&locale=en&layout=compact" alt="sammeshach23" width="600" height="200" />
-</p>
-
-
----
-
 I am always open to new opportunities and collaborations! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sammeshach023) or through [email](mailto:sammeshach333@gmail.com). Let's code and innovate together! 🚀
